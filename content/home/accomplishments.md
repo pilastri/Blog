@@ -31,7 +31,15 @@ date_format = "Jan 2006"
   title = "Blockchain Fundamentals"
   organization = "edX - In starting"
   #certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = "2019-02-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  title = "Data Science"
+  organization = "Coursera - Specialization"
+  #certificate_url = "https://www.coursera.org/specializations/jhu-data-science?utm_medium=email&utm_source=marketing&utm_campaign=rJDYsBOGEemJ46nv251fRw"
+  date_start = "2019-01-24"
   date_end = ""
   description = ""
 

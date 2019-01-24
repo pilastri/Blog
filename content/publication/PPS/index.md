@@ -34,7 +34,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+# projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -53,7 +53,7 @@ url_pdf = "https://ieeexplore.ieee.org/document/6915316"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://ieeexplore.ieee.org/document/6915316"}]
+# url_custom = [{name = "Custom Link", url = "https://ieeexplore.ieee.org/document/6915316"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/SIBGRAPI.2014.36"

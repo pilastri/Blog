@@ -42,8 +42,15 @@ weight = 5
 +++
 
 # Biography
+<!---  
+I am a Ph.D. candidate working under the guidance of [João Tavares](https://web.fe.up.pt/~tavares/) in [Informatics Engineering](https://sigarra.up.pt/feup/pt/web_page.Inicial) at FEUP. 
 
-I am a Ph.D. candidate working under the guidance of [Prof.João Tavares](https://web.fe.up.pt/~tavares/) in Informatics Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.Inicial). With over 5 years of experience developing research projects in Data Science and Computer Vision, my career goal is to master best practices, trends and new technologies, bringing creative ideas to life.
+OR
+
+I am a researcher working on projects in computer vision and artificial intelligence applications.
+--->
+
+I am a Ph.D. candidate working on projects in computer vision and artificial intelligence applications. With over 5 years of experience developing research projects in Data Science and Computer Vision, my career goal is to master best practices, trends, and new technologies, bringing creative ideas to life.
 
 Besides research, I am an avid attendee of industry conferences and workshops and am always interested in sharing and networking.
 

@@ -31,7 +31,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/Pilastri"}, {icon_pack = "fas", icon="newspaper", name="Site", url = "http://www.speksciences.com/"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/speksciences"}, {icon_pack = "fas", icon="newspaper", name="Site", url = "http://www.speksciences.com/"}]
 
 
 # Featured image
@@ -44,7 +44,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-### REN ENERGY CHALLENGE 
+### REN ENERGY CHALLENGE
 
 Aliança Portuguesa de Blockchain (Finalist Project)
 

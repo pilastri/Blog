@@ -27,7 +27,7 @@ external_link = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/pilastri"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -45,5 +45,4 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = "Smart"
 +++
 
-This is project 
-
+Page in construction!!
