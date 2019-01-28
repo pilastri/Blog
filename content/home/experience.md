@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Head of Technology Innovation"
+  title = "Computer Vision Research Scientist"
   company = "GTP Automation"
   company_url = "http://www.gtpautomation.com/"
   location = "Porto - Portugal"
