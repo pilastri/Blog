@@ -3,10 +3,10 @@
 title = "Computer Vision Projects"
 
 # Date this page was created.
-date = 2019-01-21T00:00:00
+date = 2019-01-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "List of Projects"
+summary = "Various computer vision tasks"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

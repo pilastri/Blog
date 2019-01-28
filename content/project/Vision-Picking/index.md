@@ -52,6 +52,8 @@ https://www.ubimax.com/en/solutions/xpick.html
 http://www.dhl.com/content/dam/downloads/g0/logistics/case_studies/sc_vision-picking_flyer_en.pdf
 https://www.bastiansolutions.com/solutions/technology/supply-chain-software/augmented-reality-picking-wearable-technology
 https://www.lucasware.com/warehouse-vision-picking/
+
+Interested? Contact me or view this [video](wwww.youtube.com) on how to use Deep Learning to enhance your process of Picking.
 -->
 
 Maintaining steady productivity and meeting customer demands throughout the year is a growing challenge in the logistics industry, especially with the explosive growth of e-Commerce. Vision Picking is an innovative way to increase the agility of your supply chain by employing the latest Deep learning technology in your warehousing operations.
@@ -85,4 +87,4 @@ The operator executes the prior steps until the batch of orders is completed.
 
 The next logical step in the evolution of the retail industry is to deploy AI not only to improve customer experience but also to bolster its operations and processes.
 
-Interested? Contact me or view this [video](wwww.youtube.com) on how to use Deep Learning to enhance your process of Picking.
+Interested? If you need additional information, please contact me via email.
