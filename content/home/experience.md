@@ -43,7 +43,7 @@ date_format = "January 2006"
   location = "Mato Grosso - Brazil"
   date_start = "2013-01-01"
   date_end = "2014-12-31"
-  description = """Teacher and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: algorithms, data structure, and computer graphics;
+  description = """Professor and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: algorithms, data structure, and computer graphics;
 """
 
 [[experience]]
@@ -53,7 +53,7 @@ date_format = "January 2006"
   location = "São Paulo - Brazil"
   date_start = "2011-08-01"
   date_end = "2012-12-31"
-  description = """Teacher and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: algorithms, data structure, and computer graphics;
+  description = """Professor and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: algorithms, data structure, and computer graphics;
 """
 
 [[experience]]
@@ -63,7 +63,7 @@ date_format = "January 2006"
   location = "São Paulo - Brazil"
   date_start = "2010-02-01"
   date_end = "2012-12-31"
-  description = """Teacher and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: algorithms, data structure, and computer graphics;
+  description = """Professor and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: algorithms, data structure, and computer graphics;
 """
 
 +++
