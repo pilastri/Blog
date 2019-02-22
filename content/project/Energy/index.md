@@ -10,7 +10,7 @@ summary = "Blockchain Project: Marketplace Energy"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Blockchain", "Machine Learning", "Energy"]
+tags = ["Blockchain", "Machine Learning", "Energy", "Marketplace"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -50,6 +50,8 @@ Aliança Portuguesa de Blockchain (Finalist Project)
 
 How can we use the Blockchain to potentiate the National Energy Network?
 
-In this context, I and [Danilo Jodas](https://www.linkedin.com/in/danilo-jodas/) and more some friends decided to take part in the Challenge REN and we created:
+In this context, my friends and I decided to take part in the Challenge REN and we created:
 
 Dinamis platform is a marketplace for the energy sector that integrates producers, traders and consumers in a single environment of peer-to-peer (P2P) transactions. The proposal aims at the concentration of all the intermediaries of the energy sector in a single platform that uses the blockchain technology.
+
+Interested? Contact me or view this [video](https://www.youtube.com/watch?v=ZdrGtg7-tfs) on how to use Blockchain to enhance energy marketplace.

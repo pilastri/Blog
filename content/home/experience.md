@@ -27,14 +27,30 @@ date_format = "January 2006"
   date_start = "2018-01-16"
   date_end = "2019-01-20"
   description = """
-
+<!---
   Development of Industrial Storage solution for the maintenance of stock;
   Responsibilities include:
   
   * Analysing
   * Modelling
   * Deploying
+-->
+  Computer Vision and Deep Learning development for Industry 4.0 solutions: 
+
+  *	**Vision Picking:** Package classification based on AR and CNN's. 
+  *	**Volumes Estimation:** Calculation the volume of shipping container racks with aerial footage, using OpenCV and shapefile format. 
+  *	**Drone Indoor Positioning:** Estimate position using printed ArUco markers. 
   """
+
+[[experience]]
+  title = "Ph.D. Candidate"
+  company = "CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+  company_url = "http://www.cnpq.br/"
+  location = "Porto - Portugal"
+  date_start = "2015-02-01"
+  date_end = ""
+  description = """Ph.D. fellow of the CNPq in the Faculty of Engineering at University of Porto. I am is carrying out a project in Segmentation of Skin in dermatoscopic images using SuperPixels combined with Complex Networks. 
+"""
 
 [[experience]]
   title = "Professor"
@@ -43,7 +59,11 @@ date_format = "January 2006"
   location = "Mato Grosso - Brazil"
   date_start = "2013-01-01"
   date_end = "2014-12-31"
-  description = """Professor and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: algorithms, data structure, and computer graphics;
+  description = """Professor and Researcher in the disciplinary area of Computer Science, with focus on the following curricular units: 
+  
+  * algorithms; 
+  * data structure;
+  * computer graphics;
 """
 
 [[experience]]
